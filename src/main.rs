@@ -50,7 +50,7 @@ fn main() {
         f64::log10(db)
     };
 
-    // Calculate p_ratio using the lambda function
+    // Calculate p_ratio using the lambda function 
     let p_ratio = calculate_p_ratio(db);
 
     // Print the result
